@@ -1,0 +1,8 @@
+ext {
+    extName = 'AnimeAV1'
+    extClass = '.AnimeAV1'
+    extVersionCode = 1
+    isNsfw = false
+}
+
+apply from: "$rootDir/common.gradle"
